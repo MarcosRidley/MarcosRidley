@@ -13,8 +13,6 @@
 
 - Interested in my CV? [You can find it here](https://drive.google.com/file/d/1m345lAVDtCZujzFXX8leoL9ZuNtUzGeX/view)
 
-- ⚡ Fun fact **I have never once seen someone actually understand how Git works, just how to use it.**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/marcosridley" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="marcosridley" height="30" width="40" /></a>
