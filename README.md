@@ -1,13 +1,13 @@
 <h1 align="center">Hello! I'm Marcos Ridley! 👨‍💻</h1>
-<h3 align="center">A brazilian-based front-end developer!</h3>
+<h3 align="center">A brazilian-based Fullstack developer!</h3>
 
 - 🔭 I’m currently working on [improving my web portfolio](https://marcosridley.github.io/)
 
-- 🌱 I’m currently learning **NextJS** and getting acquainted to **NodeJS**
+- 🌱 I’m currently learning **NestJS** and getting acquainted to **C#**
 
 - 👨‍💻 My most interesting projects can be found @ [https://marcosridley.github.io/](https://marcosridley.github.io/)
 
-- 💬 Ask me about **Javascript, React and programming memes**
+- 💬 Ask me about **Javascript, React, that one really hard kata on codewars and programming memes**
 
 - 📫 You can e-mail me at **marcosridley@hotmail.com**
 
