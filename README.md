@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [improving my web portfolio](https://marcosridley.github.io/) and a couple freelance projects. 
 
-- 🌱 I’m currently learning **C#** and getting acquainted to **the .Net Framework**
+- 🌱 I’m currently learning **C#** and getting acquainted to **the .NET Framework**
 
 - 👨‍💻 My most interesting projects can be found @ [https://marcosridley.github.io/](https://marcosridley.github.io/)
 
