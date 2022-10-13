@@ -1,9 +1,9 @@
 <h1 align="center">Hello! I'm Marcos Ridley! 👨‍💻</h1>
 <h3 align="center">A brazilian-based Fullstack developer!</h3>
 
-- 🔭 I’m currently working on [improving my web portfolio](https://marcosridley.github.io/)
+- 🔭 I’m currently working on [improving my web portfolio](https://marcosridley.github.io/) and a couple freelance projects. 
 
-- 🌱 I’m currently learning **NestJS** and getting acquainted to **C#**
+- 🌱 I’m currently learning **C#** and getting acquainted to **the .Net Framework**
 
 - 👨‍💻 My most interesting projects can be found @ [https://marcosridley.github.io/](https://marcosridley.github.io/)
 
