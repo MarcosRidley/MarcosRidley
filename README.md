@@ -1,17 +1,16 @@
 <h1 align="center">Hello! I'm Marcos Ridley! 👨‍💻</h1>
 <h3 align="center">A brazilian-based Fullstack developer!</h3>
 
-- 🔭 I’m currently working on [improving my web portfolio](https://marcosridley.github.io/) and a couple freelance projects. 
+- 🔭 I’m currently working on a couple freelance projects. 
 
-- 🌱 I’m currently learning **C#** and getting acquainted to **the .NET Framework**
+- 🌱 I’m currently delving deeper into the .NET framework, especially .NET 6.
 
-- 👨‍💻 My most interesting projects can be found @ [https://marcosridley.github.io/](https://marcosridley.github.io/)
+- 👨‍💻 My most interesting front and backend projects can be found @ [https://marcosridley.github.io/](https://marcosridley.github.io/)
+- Please keep in mind no comercial project can be shown there, so feel free to message me to see the real good stuff.
 
-- 💬 Ask me about **Javascript, React, that one really hard kata on codewars and programming memes**
+- 💬 Ask me about **Javascript, React, NodeJS, that one really hard kata on codewars and programming memes**
 
 - 📫 You can e-mail me at **marcosridley@hotmail.com**
-
-- Interested in my CV? [You can find it here](https://drive.google.com/file/d/1m345lAVDtCZujzFXX8leoL9ZuNtUzGeX/view)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -19,6 +18,7 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
+//I will get to update this soon-ish. Been a while 😆
 <h5 align="left">Languages</h5>
 <p align="left">
 <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
