@@ -3,12 +3,12 @@
 
 - 🔭 I’m currently working on a couple freelance projects. 
 
-- 🌱 I’m currently delving deeper into the .NET framework, especially .NET 6.
+- 🌱 I’m currently delving deeper into .NET, especially .NET 6.
 
 - 👨‍💻 My most interesting front and backend projects can be found @ [https://marcosridley.github.io/](https://marcosridley.github.io/)
 - Please keep in mind no comercial project can be shown there, so feel free to message me to see the real good stuff.
 
-- 💬 Ask me about **Javascript, React, NodeJS, that one really hard kata on codewars and programming memes**
+- 💬 Ask me about **Javascript, C#, React, NodeJS, that one really hard kata on codewars and programming memes**
 
 - 📫 You can e-mail me at **marcosridley@hotmail.com**
 
