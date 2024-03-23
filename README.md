@@ -13,6 +13,3 @@
 <p align="left">
 <a href="https://linkedin.com/in/marcosridley" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="marcosridley" height="30" width="40" /></a>
 </p>
-
-
-<a href="https://github.com/MarcosRidley" align="left"><img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarcosRidley&langs_count=10&title_color=facc15&text_color=ffffff&icon_color=facc15&bg_color=181824&hide_border=true&locale=en&custom_title=Top%20%Languages&layout=compact&exclude_repo=marcosridley.github.io,git-github-cheatsheet_trybe,MyLandingPage,odin-recipes" alt="Top Languages" /></a>
