@@ -1,5 +1,5 @@
 <h1 align="center">Hello! I'm Marcos Ridley! 👨‍💻</h1>
-<h3 align="center">A brazilian-based Fullstack developer!</h3>
+<h3 align="center">A problemsolver that uses software to do just that!</h3>
 
 - 🔭 I’m currently delving deeper into Blazor with .NET 8.
 
@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **.NET, C#, React, NodeJS, that one really hard kata on codewars and programming memes**
 
-- 📫 You can e-mail me at **marcosridley@hotmail.com**
+- 📫 You can contact me at **marcosridley@hotmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
